@@ -1,0 +1,1 @@
+export const server_url = 'https://mediabackend-gcdq.onrender.com' //json server de url edth ivde ittu. ee url through aan api call okke cheyne so ith export cheyth kokkanam
